@@ -94,3 +94,6 @@ const startApp = () => {
   document.querySelector('#btnRow').addEventListener('click', buttonFilter);
 }
 startApp();
+
+console.log("test 1 2 3");
+console.log("test 1 2 3");
